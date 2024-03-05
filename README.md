@@ -2,6 +2,11 @@
 
 Primer aplicacion server side (backend)
 
+### Tecnologias
+
+ - [NodeJs](https://nodejs.org/en/about) 
+ - [Express](https://expressjs.com/es/) 
+
 ## Instalacion 
 
 Para levantar tu primer servidor deberas hacer lo siguiente: 
